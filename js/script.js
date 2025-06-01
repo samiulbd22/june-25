@@ -163,7 +163,7 @@ const members = {
         totalPayable
     },
     "01581515641":{//01644377150
-        name:"Rashed",
+        name:"Md. Joynal Hossain",
         join:"new",
         // pre-previous month list
         post_payable        :3250,
