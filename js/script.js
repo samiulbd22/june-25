@@ -80,7 +80,7 @@ const members = {
     runningMonth    :"June-25",
     previousMonth   :"May-25", // new addDecember
     upComingMonth   :"July 1,2025",
-    runningMealRate :42,
+    runningMealRate :47,
 
     "01814843266":{
         name:"Istiaq Ahmad Udoy",
@@ -95,7 +95,7 @@ const members = {
         garage_cost     :0,
         running_payable :0,
         running_paid    :0,
-        running_meal    :1,
+        running_meal    :2,
         // method calling
         preMonth,
         runningDiningCost,
@@ -115,7 +115,7 @@ const members = {
         garage_cost     :0,
         running_payable :0,
         running_paid    :0,
-        running_meal    :1,
+        running_meal    :2,
         // method calling
         preMonth,
         runningDiningCost,
@@ -135,7 +135,7 @@ const members = {
         garage_cost     :0,
         running_payable :0,
         running_paid    :0,
-        running_meal    :1,
+        running_meal    :2,
         // method calling
         preMonth,
         runningDiningCost,
@@ -175,7 +175,7 @@ const members = {
         garage_cost     :0,
         running_payable :0,
         running_paid    :0,
-        running_meal    :2,
+        running_meal    :4,
         // method calling
         preMonth,
         runningDiningCost,
@@ -195,7 +195,7 @@ const members = {
         garage_cost     :0,
         running_payable :0,
         running_paid    :0,
-        running_meal    :2,
+        running_meal    :4,
         // method calling
         preMonth,
         runningDiningCost,
@@ -216,7 +216,7 @@ const members = {
         garage_cost     :0,
         running_payable :0,
         running_paid    :0,
-        running_meal    :2,
+        running_meal    :4,
         // method calling
         preMonth,
         runningDiningCost,
@@ -278,7 +278,7 @@ const members = {
         garage_cost     :0,
         running_payable :0,
         running_paid    :0,
-        running_meal    :2,
+        running_meal    :4,
         // method calling
         preMonth,
         runningDiningCost,
