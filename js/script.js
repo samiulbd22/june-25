@@ -808,7 +808,7 @@ function opener(){
                                                 <td class="due-me">${members["01921567438"].runningMonth().diningDue}</td>
                                             </tr>
                                             <tr>
-                                                <th>${members["01707474654"].name}</th>
+                                                <th>${members["01704351658"].name}</th>
                                                 <td class="payable">${members["01704351658"].totalPayable()}</td>
                                                 <td class="paid-me">${members["01704351658"].running_paid}</td>
                                                 <td class="dining-me">${members["01704351658"].runningDiningCost()}</td>
